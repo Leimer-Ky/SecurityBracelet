@@ -1,7 +1,7 @@
 package com.example.android.bluetoothlegatt.BluetoothLe;
 
 import java.util.HashMap;
-
+.0
 /**
  * This class includes a small subset of standard GATT attributes for demonstration purposes.
  */
