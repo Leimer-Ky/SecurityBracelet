@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorInternet">#3F3F3F</color>
+    <color name="colorSerCharDes">#BB0909</color>
+    <color name="colorSerCharCon">#0ED617</color>
+    <color name="colorStopService">#D60E0E</color>
+
+</resources>

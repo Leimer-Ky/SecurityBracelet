@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:3:1-46:12
+INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:3:1-46:12
+INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:3:1-46:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ca02e449b67c4649b51b7efa93cd6922\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c34dcf5dd2bd2bb4f6cfcfff3a1d345\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5ca543e45545dc129f624cbfbb14e838\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\975e45bf8110f26fc9155dbcad027cc3\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b5fd830f281ad29e63f8d44139bd236c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.cloudinary:cloudinary-android:1.25.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\cloudinary-android-1.25.0.aar\0fad0d54c55d736a206ad2b6e599dac3\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b8fea349b6ff5cc4c31aa5da75781aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\388652b2cddfab95f534a99452ad8cf8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.2.aar\0652170b66bae48c73b16f22edd46a73\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ceeb48c458b0b5b6e14642df8e398897\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\2e67c32ea8d67be922e8223b57c5c19f\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\65639be51a69ba0c71e1af1ab76dddec\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\bbb52617e939518061a68edc3e22a91e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\89d1aef662c128749a39113c2772c715\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b1a5dae9041b0e59511d02909bf7ce23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c45c9fd85732626f22e485167df8931b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d7c0ef0eb7c1986261f391db7ebeba24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a8f802baf38d80da7d9ee11176dfa34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\cdd8861a455a061097947cd1ab081cc1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6aa393153de7ff806bda2299d1a4e065\AndroidManifest.xml:17:1-22:12
+MERGED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:2:1-65:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\49d49163f9d1141dae4d322c07e9596c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dadc9b3ab676fca8ec11724ebb82a122\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6d1466db610e8cced0f4376f2f2a0797\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e6af4ff45cdd018d4838a05c7fb28b54\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:3:1-46:12
+INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:3:1-46:12
+	package
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:4:5-50
+	android:versionName
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:8:5-66
+MERGED from [com.cloudinary:cloudinary-android:1.25.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\cloudinary-android-1.25.0.aar\0fad0d54c55d736a206ad2b6e599dac3\AndroidManifest.xml:11:5-67
+MERGED from [com.cloudinary:cloudinary-android:1.25.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\cloudinary-android-1.25.0.aar\0fad0d54c55d736a206ad2b6e599dac3\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:9:5-78
+MERGED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:13:5-79
+MERGED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:13:22-76
+uses-feature#android.hardware.location.gps
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:14:19-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:16:22-86
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:19:5-73
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:19:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:20:5-89
+	android:required
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:20:64-87
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:20:19-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:24:22-63
+application
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:26:5-44:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5ca543e45545dc129f624cbfbb14e838\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5ca543e45545dc129f624cbfbb14e838\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\975e45bf8110f26fc9155dbcad027cc3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\975e45bf8110f26fc9155dbcad027cc3\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b5fd830f281ad29e63f8d44139bd236c\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b5fd830f281ad29e63f8d44139bd236c\AndroidManifest.xml:9:5-20
+MERGED from [com.cloudinary:cloudinary-android:1.25.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\cloudinary-android-1.25.0.aar\0fad0d54c55d736a206ad2b6e599dac3\AndroidManifest.xml:13:5-67
+MERGED from [com.cloudinary:cloudinary-android:1.25.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\cloudinary-android-1.25.0.aar\0fad0d54c55d736a206ad2b6e599dac3\AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ceeb48c458b0b5b6e14642df8e398897\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ceeb48c458b0b5b6e14642df8e398897\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\2e67c32ea8d67be922e8223b57c5c19f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\2e67c32ea8d67be922e8223b57c5c19f\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\65639be51a69ba0c71e1af1ab76dddec\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\65639be51a69ba0c71e1af1ab76dddec\AndroidManifest.xml:19:5-21:19
+MERGED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:16:5-63:19
+MERGED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:16:5-63:19
+	android:label
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:27:9-41
+	android:fullBackupContent
+		ADDED from [com.cloudinary:cloudinary-android:1.25.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\cloudinary-android-1.25.0.aar\0fad0d54c55d736a206ad2b6e599dac3\AndroidManifest.xml:13:18-64
+	tools:ignore
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:16:18-44
+	android:icon
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:28:9-45
+	android:theme
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:29:9-56
+activity#com.example.android.bluetoothlegatt.UserInterfaz
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:30:9-37:20
+	android:label
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:31:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:34:17-68
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:35:27-74
+activity#com.example.android.bluetoothlegatt.LoginRegister.LoginActivity
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:38:9-75
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:38:19-62
+activity#com.example.android.bluetoothlegatt.BluetoothLe.DeviceScanActivity
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:39:9-67
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:39:19-65
+activity#com.example.android.bluetoothlegatt.LoginRegister.RegisterActivity
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:40:9-68
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:40:19-65
+activity#com.example.android.bluetoothlegatt.Registros.Registros
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:41:9-56
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:41:19-54
+service#com.example.android.bluetoothlegatt.BluetoothLe.BluetoothLeService
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:42:9-89
+	android:enabled
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:42:65-87
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:42:18-64
+service#com.example.android.bluetoothlegatt.UbicacionService
+ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:43:9-75
+	android:enabled
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:43:51-73
+	android:name
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml:43:18-50
+uses-sdk
+INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ca02e449b67c4649b51b7efa93cd6922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\ca02e449b67c4649b51b7efa93cd6922\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c34dcf5dd2bd2bb4f6cfcfff3a1d345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4c34dcf5dd2bd2bb4f6cfcfff3a1d345\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5ca543e45545dc129f624cbfbb14e838\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5ca543e45545dc129f624cbfbb14e838\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\975e45bf8110f26fc9155dbcad027cc3\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\volley-1.1.1.aar\975e45bf8110f26fc9155dbcad027cc3\AndroidManifest.xml:7:5-43
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b5fd830f281ad29e63f8d44139bd236c\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\b5fd830f281ad29e63f8d44139bd236c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.cloudinary:cloudinary-android:1.25.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\cloudinary-android-1.25.0.aar\0fad0d54c55d736a206ad2b6e599dac3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.cloudinary:cloudinary-android:1.25.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\cloudinary-android-1.25.0.aar\0fad0d54c55d736a206ad2b6e599dac3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b8fea349b6ff5cc4c31aa5da75781aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\b8fea349b6ff5cc4c31aa5da75781aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\388652b2cddfab95f534a99452ad8cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\388652b2cddfab95f534a99452ad8cf8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.2.aar\0652170b66bae48c73b16f22edd46a73\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-11.0.2.aar\0652170b66bae48c73b16f22edd46a73\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ceeb48c458b0b5b6e14642df8e398897\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ceeb48c458b0b5b6e14642df8e398897\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\2e67c32ea8d67be922e8223b57c5c19f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\2e67c32ea8d67be922e8223b57c5c19f\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\65639be51a69ba0c71e1af1ab76dddec\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\65639be51a69ba0c71e1af1ab76dddec\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\bbb52617e939518061a68edc3e22a91e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\bbb52617e939518061a68edc3e22a91e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\89d1aef662c128749a39113c2772c715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\89d1aef662c128749a39113c2772c715\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b1a5dae9041b0e59511d02909bf7ce23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\b1a5dae9041b0e59511d02909bf7ce23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c45c9fd85732626f22e485167df8931b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\c45c9fd85732626f22e485167df8931b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d7c0ef0eb7c1986261f391db7ebeba24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d7c0ef0eb7c1986261f391db7ebeba24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a8f802baf38d80da7d9ee11176dfa34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4a8f802baf38d80da7d9ee11176dfa34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\cdd8861a455a061097947cd1ab081cc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\cdd8861a455a061097947cd1ab081cc1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6aa393153de7ff806bda2299d1a4e065\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6aa393153de7ff806bda2299d1a4e065\AndroidManifest.xml:20:5-44
+MERGED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:8:5-10:41
+MERGED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\49d49163f9d1141dae4d322c07e9596c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\49d49163f9d1141dae4d322c07e9596c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dadc9b3ab676fca8ec11724ebb82a122\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dadc9b3ab676fca8ec11724ebb82a122\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6d1466db610e8cced0f4376f2f2a0797\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6d1466db610e8cced0f4376f2f2a0797\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e6af4ff45cdd018d4838a05c7fb28b54\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e6af4ff45cdd018d4838a05c7fb28b54\AndroidManifest.xml:20:5-44
+INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+		ADDED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+		INJECTED from E:\Escritorio\Archivos\Projects\AndroidStudio\BluetoothLeGatt1\Application\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-auth-11.0.2.aar\f7c04a23d8f29a74f999f7bcf3f02576\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ceeb48c458b0b5b6e14642df8e398897\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ceeb48c458b0b5b6e14642df8e398897\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ceeb48c458b0b5b6e14642df8e398897\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\ceeb48c458b0b5b6e14642df8e398897\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\65639be51a69ba0c71e1af1ab76dddec\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\65639be51a69ba0c71e1af1ab76dddec\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\65639be51a69ba0c71e1af1ab76dddec\AndroidManifest.xml:20:20-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:14:22-78
+service#com.evernote.android.job.v21.PlatformJobService
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:17:9-20:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:19:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:20:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:18:13-75
+service#com.evernote.android.job.v14.PlatformAlarmService
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:21:9-24:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:23:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:24:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:22:13-77
+service#com.evernote.android.job.v14.PlatformAlarmServiceExact
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:26:13-82
+receiver#com.evernote.android.job.v14.PlatformAlarmReceiver
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:29:9-38:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:30:13-78
+intent-filter#action:name:com.evernote.android.job.v14.RUN_JOB+action:name:net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:32:13-37:29
+action#com.evernote.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:35:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:35:25-76
+action#net.vrallev.android.job.v14.RUN_JOB
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:36:17-78
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:36:25-75
+receiver#com.evernote.android.job.JobBootReceiver
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:39:9-48:20
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:40:13-68
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:42:13-47:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:43:17-79
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:43:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:44:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:44:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:45:17-82
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:45:25-79
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:46:17-84
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:46:25-81
+service#com.evernote.android.job.gcm.PlatformGcmService
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:50:9-58:19
+	android:enabled
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:52:13-36
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:53:13-36
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:54:13-93
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:51:13-75
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:55:13-57:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:56:17-87
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:56:25-84
+service#com.evernote.android.job.JobRescheduleService
+ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:59:9-62:72
+	android:exported
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:61:13-37
+	android:permission
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:62:13-69
+	android:name
+		ADDED from [com.evernote:android-job:1.2.6] C:\Users\Leimer Guambaña\.gradle\caches\transforms-1\files-1.1\android-job-1.2.6.aar\d1eda5bdafb6c707121e986a36fa36ef\AndroidManifest.xml:60:13-73

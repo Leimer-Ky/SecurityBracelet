@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/rlInicio">
+
+        <TextView
+            android:id="@+id/txtestadoBT"
+            android:layout_width="wrap_content"
+            android:layout_height="27dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:textAlignment="center"
+            android:background="@drawable/ic_bluetooth_desconnect"
+            android:drawableTop="@drawable/ic_bluetooth_icon" />
+
+        <TextView
+            android:id="@+id/txtBienvenido"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BIENVENIDO"
+            android:textStyle="bold"
+            android:layout_marginTop="5dp"
+            android:layout_centerHorizontal="true"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rlInicio"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:id="@+id/txtStatusService"
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:text="S"
+            android:layout_marginLeft="14dp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:clickable="true"
+            android:background="@color/colorSerCharDes"/>
+        <TextView
+            android:id="@+id/txtStatusNotification"
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:text="N"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:clickable="true"
+            android:background="@color/colorSerCharDes"/>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnRegistro"
+        android:layout_width="46dp"
+        android:layout_height="46dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="60dp"
+        android:layout_toEndOf="@+id/imgPerfil"
+        android:background="@drawable/ic_btn_registros"
+        android:drawableTop="@drawable/ic_registros_icon" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imgPerfil"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@mipmap/ic_launcher_round" />
+
+    <Button
+        android:id="@+id/btnEditarfoto"
+        android:layout_width="match_parent"
+        android:layout_height="12dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginRight="150dp"
+        android:background="@color/colorPrimary"
+        android:textAlignment="center"
+        android:textSize="10sp"
+        android:text="Editar Foto"
+        android:layout_below="@+id/imgPerfil" />
+
+    <TextView
+        android:id="@+id/txtNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_below="@+id/btnEditarfoto"/>
+
+    <TextView
+        android:id="@+id/txtCoordenadas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:textAlignment="center"
+        android:layout_below="@+id/txtNombre"
+        android:text="Mi Dirección es:"/>
+
+    <TextView
+        android:id="@+id/txtLatitud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/txtCoordenadas"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/txtLongitud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_below="@+id/txtLatitud"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/txtStreet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="9dp"
+        android:textStyle="bold"
+        android:layout_below="@+id/txtLongitud"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/txtMensajeEnviado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_below="@+id/txtLongitud"/>
+
+    <Button
+        android:id="@+id/btnSalir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:layout_below="@+id/txtMensajeEnviado"
+        android:text="Cerrar Sesion"
+        android:background="@color/colorPrimary"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:id="@+id/btnStopService"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:layout_below="@id/btnSalir"
+        android:text="Stop Tracking"
+        android:background="@drawable/button_border"
+        android:textColor="@color/colorStopService"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="30dp"
+        android:visibility="gone"/>
+
+
+    <TextView
+        android:id="@+id/txtNotification"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginStart="-15dp"
+        android:layout_marginTop="15dp"
+        android:layout_toEndOf="@+id/btnRegistro"
+        android:background="@drawable/ic_txt_notification"
+        android:textColor="#FFF"
+        android:textSize="14dp"
+        android:visibility="invisible" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rlInternet">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_alignParentBottom="true"
+            android:background="@color/colorInternet"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/txtInternet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Conected to internet"
+                android:textSize="10dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_marginLeft="20dp"
+                android:textColor="@android:color/white"/>
+
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
+
+

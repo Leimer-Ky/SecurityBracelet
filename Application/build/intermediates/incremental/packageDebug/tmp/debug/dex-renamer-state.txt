@@ -1,0 +1,4 @@
+#Sun Jul 26 15:15:48 COT 2020
+base.0=E\:\\Escritorio\\Archivos\\Projects\\AndroidStudio\\BluetoothLeGatt1\\Application\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
