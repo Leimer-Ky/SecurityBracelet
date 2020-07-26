@@ -66,7 +66,6 @@ public class VerificarRegistroService extends Service {
         super.onDestroy();
         //mlocManager.removeUpdates((LocationListener) Local);
     }
-
     private void BDverificarRegistro(final String username){
 
         StringRequest stringRequest = new StringRequest(Request.Method.GET, URL_OBTENER_REGISTROS+"?username="+username, new Response.Listener<String>() {
